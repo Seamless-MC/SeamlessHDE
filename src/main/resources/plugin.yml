@@ -1,0 +1,5 @@
+name: SeamlessHDE
+version: 1.5
+author: DroppingAnvil, Niall
+description: Uses protocol lib to set placeholders on Holograms. Forked from holographic extension lightened and updated by SeamlessMC
+main: com.seamlessmc.HolographicExtension
